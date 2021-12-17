@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+.active{
+    color: #D55B00;
+}
+
+.container{
+    min-height: 59vh
+}
+
+footer > .container {
+    min-height: auto;
+}

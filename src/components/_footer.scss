@@ -1,0 +1,59 @@
+footer{
+    background-color: #000;
+    .row{
+        padding: 50px 0;
+    }
+    ul{
+        color: #fff;
+        margin: 0;
+        padding: 0;
+        li{
+            margin-bottom: 10px;
+        }
+    }
+    h5{
+        color: #D55B00;
+        font-size: 25px;
+        margin-bottom: 30px;
+        position: relative;
+        &::after{
+            content: "";
+            width: 30px;
+            height: 2px;
+            position: absolute;
+            bottom: -10px;
+            left: 0;
+            background-color: #D55B00;
+        }
+    }
+    .form-control{
+        background-color: transparent;
+        border: 1px solid #fff
+
+    }
+
+    .btn{
+        width: 100%;
+        background-color: #D55B00;
+        color: #fff;
+
+    }
+    
+
+
+
+
+    p{
+        padding: 10px 0;
+        margin: 0;
+        text-align: center;
+        background-color: rgb(68, 68, 68);
+        color: rgb(143, 143, 143);
+        i{
+            color: #D55B00;
+        }
+        a{
+            color: #fff;
+        }
+    }
+}

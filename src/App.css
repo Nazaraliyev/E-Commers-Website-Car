@@ -1,0 +1,171 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.active {
+  color: #D55B00;
+}
+
+.container {
+  min-height: 59vh;
+}
+
+footer > .container {
+  min-height: auto;
+}
+
+header img {
+  width: 100px;
+}
+
+header a {
+  font-size: 1.2em;
+  color: black;
+  position: relative;
+}
+
+header a > .count {
+  position: absolute;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  border-radius: 10px;
+  top: -5px;
+  right: -10px;
+  font-size: 12px;
+  color: #fff;
+  text-align: center;
+}
+
+header ul:last-child {
+  width: 150px;
+}
+
+.card {
+  -webkit-transition: 300ms;
+  transition: 300ms;
+}
+
+.card .img-block {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+}
+
+.card img {
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -webkit-transition: 300ms;
+  transition: 300ms;
+  -webkit-transform: scale(1.04);
+          transform: scale(1.04);
+}
+
+.card p {
+  height: 100px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: #807B75;
+}
+
+.card .add-to-cart {
+  background-color: #D55B00;
+  color: #fff;
+  margin-right: 10px;
+}
+
+.card .add-to-cart i {
+  margin-left: 10px;
+}
+
+.card .add-to-cart:hover {
+  background-color: #f56d06;
+}
+
+.card .add-to-fav:hover {
+  text-decoration: underline;
+}
+
+.card:hover img {
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+
+.card:hover {
+  -webkit-box-shadow: 0 0 10px 0.1px rgba(143, 143, 143, 0.5);
+          box-shadow: 0 0 10px 0.1px rgba(143, 143, 143, 0.5);
+}
+
+footer {
+  background-color: #000;
+}
+
+footer .row {
+  padding: 50px 0;
+}
+
+footer ul {
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+footer ul li {
+  margin-bottom: 10px;
+}
+
+footer h5 {
+  color: #D55B00;
+  font-size: 25px;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+footer h5::after {
+  content: "";
+  width: 30px;
+  height: 2px;
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  background-color: #D55B00;
+}
+
+footer .form-control {
+  background-color: transparent;
+  border: 1px solid #fff;
+}
+
+footer .btn {
+  width: 100%;
+  background-color: #D55B00;
+  color: #fff;
+}
+
+footer p {
+  padding: 10px 0;
+  margin: 0;
+  text-align: center;
+  background-color: #444444;
+  color: #8f8f8f;
+}
+
+footer p i {
+  color: #D55B00;
+}
+
+footer p a {
+  color: #fff;
+}
+/*# sourceMappingURL=App.css.map */

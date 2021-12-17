@@ -1,0 +1,45 @@
+.card{
+    transition: 300ms;
+    .img-block{
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+    }
+    img{
+        height: 100%;
+        object-fit: cover;
+        transition: 300ms;
+        transform: scale(1.04);
+    }
+    p{
+        height: 100px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        color: #807B75;
+    }
+
+    .add-to-cart{
+        background-color: #D55B00;
+        color: #fff;
+        margin-right: 10px;
+        i{
+            margin-left: 10px;
+        }
+        &:hover{
+            background-color: #f56d06;
+        }
+    }
+
+    .add-to-fav{
+        &:hover{
+            text-decoration: underline;
+        }
+    }
+
+    &:hover img { 
+        transform: scale(1);
+    }
+    &:hover{
+        box-shadow: 0 0 10px .1px rgba(143, 143, 143, 0.5);
+    }
+}
