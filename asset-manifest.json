@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/E-Commers-Website-Car/static/css/main.5bef6cce.chunk.css",
+    "main.js": "/E-Commers-Website-Car/static/js/main.d98ffacb.chunk.js",
+    "main.js.map": "/E-Commers-Website-Car/static/js/main.d98ffacb.chunk.js.map",
+    "runtime-main.js": "/E-Commers-Website-Car/static/js/runtime-main.efbde302.js",
+    "runtime-main.js.map": "/E-Commers-Website-Car/static/js/runtime-main.efbde302.js.map",
+    "static/js/2.adbb7423.chunk.js": "/E-Commers-Website-Car/static/js/2.adbb7423.chunk.js",
+    "static/js/2.adbb7423.chunk.js.map": "/E-Commers-Website-Car/static/js/2.adbb7423.chunk.js.map",
+    "static/js/3.63e756b6.chunk.js": "/E-Commers-Website-Car/static/js/3.63e756b6.chunk.js",
+    "static/js/3.63e756b6.chunk.js.map": "/E-Commers-Website-Car/static/js/3.63e756b6.chunk.js.map",
+    "index.html": "/E-Commers-Website-Car/index.html",
+    "static/css/main.5bef6cce.chunk.css.map": "/E-Commers-Website-Car/static/css/main.5bef6cce.chunk.css.map",
+    "static/js/2.adbb7423.chunk.js.LICENSE.txt": "/E-Commers-Website-Car/static/js/2.adbb7423.chunk.js.LICENSE.txt",
+    "static/media/img (1).b133ace4.jpg": "/E-Commers-Website-Car/static/media/img (1).b133ace4.jpg",
+    "static/media/img (10).ed585c39.jpg": "/E-Commers-Website-Car/static/media/img (10).ed585c39.jpg",
+    "static/media/img (11).bebcf25a.jpg": "/E-Commers-Website-Car/static/media/img (11).bebcf25a.jpg",
+    "static/media/img (12).dee5a4a2.jpg": "/E-Commers-Website-Car/static/media/img (12).dee5a4a2.jpg",
+    "static/media/img (13).c46962fb.jpg": "/E-Commers-Website-Car/static/media/img (13).c46962fb.jpg",
+    "static/media/img (14).5cfd30ae.jfif": "/E-Commers-Website-Car/static/media/img (14).5cfd30ae.jfif",
+    "static/media/img (2).26c6b5c2.jpg": "/E-Commers-Website-Car/static/media/img (2).26c6b5c2.jpg",
+    "static/media/img (3).8981f334.jpg": "/E-Commers-Website-Car/static/media/img (3).8981f334.jpg",
+    "static/media/img (4).bb53a232.jpg": "/E-Commers-Website-Car/static/media/img (4).bb53a232.jpg",
+    "static/media/img (5).c35c72d4.jpg": "/E-Commers-Website-Car/static/media/img (5).c35c72d4.jpg",
+    "static/media/img (6).b5d679e5.jpg": "/E-Commers-Website-Car/static/media/img (6).b5d679e5.jpg",
+    "static/media/img (7).be8ca95a.jpg": "/E-Commers-Website-Car/static/media/img (7).be8ca95a.jpg",
+    "static/media/img (8).a0cf63fb.jpg": "/E-Commers-Website-Car/static/media/img (8).a0cf63fb.jpg",
+    "static/media/img (9).6a1047ea.jpg": "/E-Commers-Website-Car/static/media/img (9).6a1047ea.jpg",
+    "static/media/logo.2904dc30.png": "/E-Commers-Website-Car/static/media/logo.2904dc30.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efbde302.js",
+    "static/js/2.adbb7423.chunk.js",
+    "static/css/main.5bef6cce.chunk.css",
+    "static/js/main.d98ffacb.chunk.js"
+  ]
+}
